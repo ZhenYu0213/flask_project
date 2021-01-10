@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+gunicorn==19.7.1
+numpy
+Werkzeug
+PIL
+flask_wtf
